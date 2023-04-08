@@ -19,5 +19,5 @@ print("and you can use it again and again in your code")
 
 print()
 
-print("but with the function, you can 'call' it super easily, whenver you want")
+print("but with the function, you can 'call' it super easily, whenever you want")
 my_function()
