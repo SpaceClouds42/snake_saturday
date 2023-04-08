@@ -1,4 +1,4 @@
-# <-- this hash symbol creates a 'comment'
+# <-- this hash symbol creates a "comment"
 # anything after a hash will be ignored
 
 # so line 6 will not run
